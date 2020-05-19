@@ -13,6 +13,3 @@ A desktop application used to query a database for art gallery data such as art 
 **Repository:** [Repository](https://github.com/BrandonXue/art-gallery-manager "Repository")
 
 Feel free to test out the project by going to the repository, navigating to the "target" directory, and downloading the jar.
-
-**Project Demo**
-
