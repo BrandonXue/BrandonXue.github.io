@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+# Welcome to my project portfolio!
 
-You can use the [editor on GitHub](https://github.com/BrandonXue/BrandonXue.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This is where you'll find my various coding projects and experiments.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Projects
 
-### Markdown
+### Art Gallery Manager
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+A desktop application used to query a database for art gallery data such as art shows, artists, and artwork. This project is written in Java using Swing to create the user interfaces. It connects to a MySQL database using the Connector/J API. The database is hosted by ClearDB's services, and was set up through Heroku. Source code for setting up the database is also included.
 
-```markdown
-Syntax highlighted code block
+**Homepage:** [Art Gallery Manager](https://brandonxue.github.io/art-gallery-manager/ "Homepage")
 
-# Header 1
-## Header 2
-### Header 3
+**Repository:** [Repository](https://github.com/BrandonXue/art-gallery-manager "Repository")
 
-- Bulleted
-- List
+Feel free to test out the project by going to the repository, navigating to the "target" directory, and downloading the jar.
 
-1. Numbered
-2. List
+**Project Demo**
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BrandonXue/BrandonXue.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
