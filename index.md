@@ -1,8 +1,4 @@
-# Welcome to my project portfolio!
-
-This is where you'll find my various coding projects and experiments.
-
-## Projects
+# Projects
 
 ### Art Gallery Manager
 
